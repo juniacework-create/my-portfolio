@@ -1,2 +1,5 @@
-# my-portfolio
- my portfolio from the phantom tutorial 
+# juniace's portfolio
+
+
+- This website says a little about me
+- Enjoy the Summary
